@@ -1,2 +1,2 @@
 # TwitterDataGathering
-Gathering data from Twitter useing Twitter API
+Gathering data from Twitter using Twitter API
